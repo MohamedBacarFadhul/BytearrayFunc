@@ -1,6 +1,6 @@
-#Fuction Bytearray Paire
+# Fuction Bytearray Paire
 
-###Etapes
+### Etapes
 
 1. La fonction vous demande de saisir un nombre ensuite le converti en binaire
 
@@ -15,9 +15,9 @@
 6. On ajoute zéro dans le cas contraire on ajoute 1
 
 
-#Fuction Bytearray Impaire
+# Fuction Bytearray Impaire
 
-###Etapes
+### Etapes
 
 1. La fonction vous demande de saisir un nombre ensuite le converti en binaire
 
@@ -32,9 +32,9 @@
 6. On ajoute 1 dans le cas contraire on ajoute 0
 
 
-#Fuction chucksum
+# Fuction chucksum
 
-###Etapes
+### Etapes
 
 1. On definie une fonction calc_chucksum
 
